@@ -48,6 +48,7 @@ https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/
 
 ## Video de apresentação
 
+https://youtu.be/zCXsukNYi8Y
 
 ## Instalação 
 **Linguagem**: C++<br>
