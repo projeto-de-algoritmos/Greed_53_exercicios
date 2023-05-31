@@ -16,13 +16,13 @@ Para essa etapa, eu escolhi 3 problemas de algoritmos ambiciosos e realizei a so
 ### Problema 1 (Operation with X)
 https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/add-or-subtract-a43b7c14/
 
-![MMR-problem](https://github.com/projeto-de-algoritmos/Greed_53_exercicios/assets/79341819/53eac61b-4664-4119-abb5-8b716a7b8d35)
+![OPX-problem](https://github.com/projeto-de-algoritmos/Greed_53_exercicios/assets/79341819/d5fdc7c0-3f0b-48c2-8cab-f5d7087b9210)
 
 ### Código
-![MMR-code](https://github.com/projeto-de-algoritmos/Greed_53_exercicios/assets/79341819/b9759236-6cdf-45c8-aa00-5bb6c582aa9c)
+![OPX-code](https://github.com/projeto-de-algoritmos/Greed_53_exercicios/assets/79341819/d1ea10e9-0ea8-48a1-92c5-410befadc6fb)
 
 ### Accepted
-![MMR-accepted](https://github.com/projeto-de-algoritmos/Greed_53_exercicios/assets/79341819/8ae93441-74b3-4bfa-a30c-61383cf8ca9d)
+![OPX-accepted](https://github.com/projeto-de-algoritmos/Greed_53_exercicios/assets/79341819/7422c3fb-4d3f-4d6b-ae98-645a28aa45e5)
 
 ### Problema 2 (Maximum Operation Count)
 https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/maximum-operation-count-8245cce4/
@@ -38,13 +38,13 @@ https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorith
 ### Problema 3 (Minimum Rounds to Complete All Tasks)
 https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/
 
-![OPX-problem](https://github.com/projeto-de-algoritmos/Greed_53_exercicios/assets/79341819/d5fdc7c0-3f0b-48c2-8cab-f5d7087b9210)
+![MMR-problem](https://github.com/projeto-de-algoritmos/Greed_53_exercicios/assets/79341819/53eac61b-4664-4119-abb5-8b716a7b8d35)
 
 ### Código
-![OPX-code](https://github.com/projeto-de-algoritmos/Greed_53_exercicios/assets/79341819/d1ea10e9-0ea8-48a1-92c5-410befadc6fb)
+![MMR-code](https://github.com/projeto-de-algoritmos/Greed_53_exercicios/assets/79341819/b9759236-6cdf-45c8-aa00-5bb6c582aa9c)
 
 ### Accepted
-![OPX-accepted](https://github.com/projeto-de-algoritmos/Greed_53_exercicios/assets/79341819/7422c3fb-4d3f-4d6b-ae98-645a28aa45e5)
+![MMR-accepted](https://github.com/projeto-de-algoritmos/Greed_53_exercicios/assets/79341819/8ae93441-74b3-4bfa-a30c-61383cf8ca9d)
 
 ## Video de apresentação
 
